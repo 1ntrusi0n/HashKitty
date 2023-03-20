@@ -12,7 +12,6 @@ chmod +x start.sh
 
 # Information
 This is my first public project, and it's a work in progress.  I plan on working on HashKitty regularly to get everything functional.  At this time, only dictionary and brute-force attacks work.  I hope you enjoy using HashKitty!
-
 <br /><br />
 # ToDo
 <ul>
