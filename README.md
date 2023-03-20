@@ -15,9 +15,10 @@ This is my first public project, and it's a work in progress.  I plan on working
 <br /><br />
 # ToDo
 <ul>
-  <li>Finish functionality for the other attacks</li>
+  <li>Finish functionality for the other attack types</li>
   <li>Add more hash types</li>
   <li>Add hash identification system</li>
+  <li>Simplify hashcat output</li>
 </ul>  
 
 # Screenshots
